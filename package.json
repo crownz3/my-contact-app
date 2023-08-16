@@ -1,0 +1,19 @@
+{
+  "name": "mycontacts-backend-api",
+  "version": "1.0.0",
+  "description": "This is my express project for my contack backend api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crownz3/my-contact-app.git"
+  },
+  "author": "Ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crownz3/my-contact-app/issues"
+  },
+  "homepage": "https://github.com/crownz3/my-contact-app#readme"
+}
